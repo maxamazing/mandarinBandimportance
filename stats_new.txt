@@ -1,0 +1,48 @@
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	Mandarin gender-specific & 
+0.88 & 	1.08 & 	0.18 & 	NaN & 	0 & 		Mandarin gender-specific\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	Mandarin average & 
+0.88 & 	1.07 & 	0.17 & 	NaN & 	0 & 		Mandarin average\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	constant & 
+0.94 & 	0.95 & 	0.16 & 	NaN & 	0 & 		constant\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	nns & 
+0.91 & 	0.93 & 	0.11 & 	NaN & 	0 & 		nns\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	standard & 
+0.91 & 	0.97 & 	0.14 & 	NaN & 	0 & 		standard\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	disyll & 
+0.89 & 	1.07 & 	0.19 & 	NaN & 	0 & 		disyll\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	nnensenseSent & 
+0.88 & 	1.19 & 	0.26 & 	NaN & 	0 & 		nnensenseSent\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	meaningfulSent & 
+0.88 & 	1.19 & 	0.26 & 	NaN & 	0 & 		meaningfulSent\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	Mandarin gender-specific & 
+0.88 & 	1.08 & 	0.18 & 	NaN & 	0 & 		Mandarin gender-specific\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	Mandarin average & 
+0.88 & 	1.07 & 	0.17 & 	NaN & 	0 & 		Mandarin average\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	constant & 
+0.94 & 	0.95 & 	0.16 & 	NaN & 	0 & 		constant\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	nns & 
+0.91 & 	0.93 & 	0.11 & 	NaN & 	0 & 		nns\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	standard & 
+0.91 & 	0.97 & 	0.14 & 	NaN & 	0 & 		standard\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	disyll & 
+0.89 & 	1.07 & 	0.19 & 	NaN & 	0 & 		disyll\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	nnensenseSent & 
+0.88 & 	1.19 & 	0.26 & 	NaN & 	0 & 		nnensenseSent\\
+
+$\mathrm{R}$ & 	RMS/dB & 	bias/dB & 	$\chi^2/\nu$ & 	$\nu$ & 	caption	meaningfulSent & 
+0.93 & 	1.01 & 	0.19 & 	NaN & 	0 & 		meaningfulSent\\
